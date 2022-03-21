@@ -1,0 +1,228 @@
+{
+    "basics": {
+        "name": "Olivier",
+        "label": "Apprenti Ingénieur dans les systèmes d'information",
+        "picture": "",
+        "email": "olivier.paullo13@gmail.com",
+        "phone": "",
+        "website": "",
+        "summary": "Je suis en alternance chez Thales depuis 3ans.",
+        "location": {
+            "address": "",
+            "postalCode": "78600",
+            "city": "",
+            "countryCode": "FR",
+            "region": "Ile-de-France"
+        },
+        "profiles": [
+            {
+                "network": "LinkeIn",
+                "username": "Olivier Gomes",
+                "url": "https://www.linkedin.com/in/oliviergomes/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "GRDF",
+            "location": "",
+            "description": "",
+            "position": "Stagiaire",
+            "website": "",
+            "startDate": "2019-01",
+            "endDate": "2019-02",
+            "summary": "Comparer deux bases de données afin de mettre en\nrelief le taux d’incohérences entre elles ainsi que les\nmodifications à effectuer. (5253 cas analysés)",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "company": "ECE Paris",
+            "location": "",
+            "description": "",
+            "position": "Assistant IT",
+            "website": "https://www.ece.fr/lecole-2/",
+            "startDate": "2018-10",
+            "endDate": "2019-05",
+            "summary": "Assister les professeurs pendant leurs séances de TD afin d'aider les élèves en programmation. Spécialement en C.",
+            "highlights": [
+                "Programmation en C",
+                "Pédagogie"
+            ]
+        },
+        {
+            "company": "ECE Apprentis Nova (Association)",
+            "location": "",
+            "description": "",
+            "position": "Responsable Réseaux",
+            "website": "https://www.ece.fr/lecole-2/",
+            "startDate": "2020-04",
+            "endDate": "2021-05",
+            "summary": "Responsable communication de l'association apprentis de l'ECE Paris",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "company": "Thales ",
+            "location": "",
+            "description": "",
+            "position": " Apprenti Ingénieur",
+            "website": "https://www.thalesgroup.com/en",
+            "startDate": "2019-09",
+            "endDate": "2022-09",
+            "summary": "French multinational company that designs and builds electrical systems and provides services for the aerospace, defence, transportation and security markets",
+            "highlights": [
+                "Python",
+                "Data",
+                "Automatisation E2E",
+                "Agilité"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "ECE Paris",
+            "area": "Big Data & Analytics",
+            "studyType": "Ingénieur",
+            "startDate": "2017-09",
+            "endDate": "2022-09",
+            "gpa": "",
+            "courses": [
+                "Big Data",
+                "C",
+                "C++",
+                "Data Analytics",
+                "Machine Learning",
+                "Java",
+                "Advanced SQL",
+                "C#"
+            ]
+        },
+        {
+            "institution": "",
+            "area": "",
+            "studyType": "",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                ""
+            ]
+        }
+    ],
+    "awards": [
+        null
+    ],
+    "publications": [
+        {
+            "name": "",
+            "publisher": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programmation Python",
+            "level": "Confirmé",
+            "keywords": [
+                "Python"
+            ]
+        },
+        {
+            "name": "Fullstack",
+            "level": "Intermédiaire - Avancé",
+            "keywords": [
+                "Javascript",
+                "ExpressJs",
+                "NodeJs",
+                ""
+            ]
+        },
+        {
+            "name": "Data Analytics",
+            "level": "Intérmédiaire - Confirmé",
+            "keywords": [
+                "Python",
+                "SQL",
+                "Dataiku"
+            ]
+        },
+        {
+            "name": "Database",
+            "level": "Confirmé",
+            "keywords": [
+                "MongoDB",
+                "LevelDB",
+                "MySQL",
+                "MariaDB"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Français",
+            "fluency": "Natif"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Japanese Culture",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Korean Culture",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Workout ",
+            "keywords": [
+                "💪",
+                "Calisthenics"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "highlights": [],
+            "keywords": [],
+            "startDate": "",
+            "endDate": "",
+            "website": "",
+            "roles": [],
+            "entity": "",
+            "type": ""
+        }
+    ],
+    "projects": [],
+    "meta": {
+        "canonical": "",
+        "version": "",
+        "lastModified": ""
+    }
+}
