@@ -73,10 +73,12 @@
             "endDate": "2022-09",
             "summary": "French multinational company that designs and builds electrical systems and provides services for the aerospace, defence, transportation and security markets",
             "highlights": [
-                "Python",
-                "Data",
-                "Automatisation E2E",
-                "Agilité"
+                "Analyse de fichiers de configuration non conformes (Dataiku / Python). Mise en place de rapports journalier et hebdomadaire sur la corrélation logs/pertes de paquets réseaux. (Dataiku / Python)",
+                "Responsable technique d'un chantier d'automatisation : Mise en place d'un projet de 0 pour l'automatisation de Fiches d'Essais et d'outil pour le service.",
+                "Gestion de projet : Choix des outils d'automatisation, de l'équipe et des différents processus."
+                "Test d'outils (TestShell, EggPlant, Robot FrameWork et Python Selenium). Développement des Proof Of Concept en Python Selenium. ", 
+                "Automatisation de tests de robustesse sur des équipements réseaux. Automatisation de génération de flux en continue (IXIA) et de tests IHM (TestShell, Ranorex, Python Selenium).",
+                "Développement Python de tests, mise en place de l'architecture, règles et des bonnes pratiques."
             ]
         }
     ],
